@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  CrewDemo
+
+  Created by Wasim on 18/11/19.
+  Copyright © 2019 Wasim. All rights reserved.
+*/
+
+
+"app_name"="Air Holland";
+"str_captain"="Captain";
+"str_first_officer"="First Officer";
+"str_flight_attandance"="Flight Attandance";
+"str_aircraft_type"="Aircraft Type";
+"str_dutycode"="DutyCode";
+"str_tail"="Tail";
+"str_home"="Home";
+"str_pull_to_refresh"="Pull to refresh";
+"str_match_crew"="Match Crew";
+"str_ok"="Ok";
